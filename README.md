@@ -30,8 +30,8 @@ To learn and absorb new js concepts
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/aammeerraakhater/todo-list
+- Live Site URL: https://aammeerraakhater.github.io/todo-list/
 
 ## My process
 
